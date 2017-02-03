@@ -38,6 +38,10 @@ Q2: Please explain how javascript benefits from cross-platform development
 
 A2: <insert your answer here>
 
+Q3: What do you expect to get from during an internship at TakeMeTour?
+
+A3: <insert your answer here>
+
 ## Submitting
 
 Please fork this repo and submit your repository at panj@takemetour.com along with your contact information.
