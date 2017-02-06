@@ -79,4 +79,4 @@ I want to do some new thing and learn how to work at Company. Finally, I wish I 
 
 ## Submitting
 
-Contract info:Nithirun Numnonda mobile:0831411163 email:nithirun1995@gmail.com
+Contract info:Nithirun Numnonda mobile:0831411163 email: nithirun1995@gmail.com
