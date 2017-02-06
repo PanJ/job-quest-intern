@@ -13,9 +13,9 @@ True
 False
 ```
 Answer:
-```
--- insert your answer here
-```
+is_prime :: Integer->Bool
+check n = [x | x <- [1..n], mod n x == 0]
+is_prime n = check n == [1, n]
 2. Please write a function that calculate nth number of fibonacci sequence. For example,
 ```
 > fibo 1
@@ -24,23 +24,26 @@ Answer:
 3
 ```
 Answer:
-```
--- insert your answer here
-```
+fibo::Int->Int
+fibo 0 = 0
+fibo 1 = 0
+fibo 2 = 1
+fibo n = fibo (n-1) + fibo (n-2)
+
 
 ## Questions
 Q1: What is GraphQL and how it is different from REST API?
 
-A1: <insert your answer here>
+A1: GraphQL is a query language to access data from various API query system.REST API will need to determine the structure of the data first.This is one of the main problems of the REST API.So GraphQL is another way to create a better API.
 
 
 Q2: Please explain how javascript benefits from cross-platform development
 
-A2: <insert your answer here>
+A2: Javascript can use a same code that can run on several platform.
 
 Q3: What do you expect to get from during an internship at TakeMeTour?
 
-A3: <insert your answer here>
+A3: I would like to improve myself such as knowledge,teamwork,expirience.
 
 ## Submitting
 
